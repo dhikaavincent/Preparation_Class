@@ -2,3 +2,4 @@ Nama: Dhika Kusuma Ardyaksa
 Stack: QA
 Branch: main
 Tambahan line di main
+Branch: sesisore
